@@ -104,9 +104,10 @@ private:
 	int MaxLines = 50;
 	int CurrentLayers = 0;
 	int Layer = 0;
-	int MaxLayers = 10;
+	int MaxLayers = 25;
 	int MaxClassVars = 12;
-	int ContentFill = 2;
+	int ContentFill = 4;
+	int sleep_time = 20;
 
 
 	std::string CurrentClass = "";

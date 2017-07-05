@@ -1,13 +1,9 @@
 ﻿  Code.cpp
 c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.h(98): warning C4129: ':': unrecognized character escape sequence
-c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(158): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
+c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(202): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(213): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 c:\users\patri\onedrive\documents\visual studio 2015\projects\codegeneration\codegeneration\code.cpp(103): warning C4715: 'Code::HasClass': not all control paths return a value
-  Skipping... (no relevant changes detected)
-  main.cpp
-  CodeGeneration.vcxproj -> c:\users\patri\onedrive\documents\visual studio 2015\Projects\CodeGeneration\Debug\CodeGeneration.exe
-  CodeGeneration.vcxproj -> c:\users\patri\onedrive\documents\visual studio 2015\Projects\CodeGeneration\Debug\CodeGeneration.pdb (Full PDB)
+  CodeGeneration.vcxproj -> C:\Users\patri\onedrive\documents\visual studio 2015\Projects\CodeGeneration\Debug\CodeGeneration.exe
+  CodeGeneration.vcxproj -> C:\Users\patri\onedrive\documents\visual studio 2015\Projects\CodeGeneration\Debug\CodeGeneration.pdb (Full PDB)
